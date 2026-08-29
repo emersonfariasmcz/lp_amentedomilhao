@@ -1,6 +1,7 @@
 Landing Page estática desenvolvida como projeto fictício de estudo e prática. 
 
-## Objeto 
+
+## Objetivo 
 
 Divulgação fictícia do Ebook "A Mente do Milhão".
 
