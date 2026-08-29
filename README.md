@@ -1,6 +1,16 @@
-# A Mente do Milhão — versão estática
+Landing Page estática desenvolvida como projeto fictício de estudo e prática. 
 
-Landing page estática utilziando HTML semântico, CSS responsivo, JavaScript vanilla e Tailwind via CDN para manter compatibilidade com o design original.
+## Objeto 
+
+Divulgação fictícia do Ebook "A Mente do Milhão".
+
+---
+
+## Tecnologias Utilizadas
+
+HTML semântico, CSS responsivo, JavaScript vanilla e Tailwind via CDN para manter compatibilidade com o design original.
+
+---
 
 ## Arquivos Principais
 
@@ -10,5 +20,12 @@ Landing page estática utilziando HTML semântico, CSS responsivo, JavaScript va
 | `styles.css` | Sistema visual, layout responsivo, microanimações e acessibilidade |
 | `script.js` | Menu mobile, FAQ, scroll suave, reveal por rolagem e feedback do CTA |
 | `assets/` | Capa, logo, textura e colagem editorial |
+
+--- 
+
+## Caracteristicas do Projetos
+
+- Escrita Persuasiva, utilizando as técnicas de copywriter.
+- Chamada para ação (CTA)
 
 
