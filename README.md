@@ -6,6 +6,12 @@ Divulgação fictícia do Ebook "A Mente do Milhão".
 
 ---
 
+## Veja o Projeto no Ar
+
+https://emersonfariasmcz.github.io/lp_amentedomilhao/
+
+---
+
 ## Tecnologias Utilizadas
 
 HTML semântico, CSS responsivo, JavaScript vanilla e Tailwind via CDN para manter compatibilidade com o design original.
