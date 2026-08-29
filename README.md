@@ -4,19 +4,16 @@ Landing Page estática desenvolvida como projeto fictício de estudo e prática.
 
 Divulgação fictícia do Ebook "A Mente do Milhão".
 
----
 
 ## Veja o Projeto no Ar
 
-https://emersonfariasmcz.github.io/lp_amentedomilhao/
+Acesse: https://emersonfariasmcz.github.io/lp_amentedomilhao/
 
----
 
 ## Tecnologias Utilizadas
 
 HTML semântico, CSS responsivo, JavaScript vanilla e Tailwind via CDN para manter compatibilidade com o design original.
 
----
 
 ## Arquivos Principais
 
@@ -27,7 +24,6 @@ HTML semântico, CSS responsivo, JavaScript vanilla e Tailwind via CDN para mant
 | `script.js` | Menu mobile, FAQ, scroll suave, reveal por rolagem e feedback do CTA |
 | `assets/` | Capa, logo, textura e colagem editorial |
 
---- 
 
 ## Caracteristicas do Projetos
 
